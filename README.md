@@ -1,1 +1,1 @@
-# Clubs-Chapters-
+This is the Instructions for the Project Of Clubs & Chapter.
